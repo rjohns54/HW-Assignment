@@ -1,0 +1,5 @@
+# HW-Assignment
+def GoodMorning (name):
+    text = "Good Morning, " + name + "!"
+    print (text)
+GoodMorning("Vietnam")
