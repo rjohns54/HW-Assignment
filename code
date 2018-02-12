@@ -2,4 +2,4 @@
 def GoodMorning (name):
     text = "Good Morning, " + name + "!"
     print (text)
-GoodMorning("Vietnam")
+GoodMorning("Ross")
